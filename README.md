@@ -5,7 +5,7 @@ Desenvolvimento do projeto Finans, referente ao conteúdo de Bootstrap & Design 
 
 
 
-### Recursos Utilizadas
+### Recursos Utilizados
 - [HTML5](https://www.w3schools.com/html/)
 - [Bootstrap 4.5](https://getbootstrap.com/)
 - [Font Awesome (Free Version)](https://fontawesome.com/)
